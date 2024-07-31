@@ -19,7 +19,7 @@
 	font-size:24px;
 	text-align:center;
 	border:1px solid gray;
-	box-shadow:0 0 10px rgba(0 0 0 0.3);
+	box-shadow: 0 0 10px rgba(0,0,0,0.3);
 }
 
 .code:focus{
